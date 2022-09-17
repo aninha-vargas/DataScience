@@ -1,8 +1,9 @@
 # DataScience
 Portal da Transparência - Viagens Ano 2016
 
-**Link do Repositório:**
-Turma: BSI Quarta
+**Link do Repositório:** https://github.com/aninha-vargas/DataScience.git   
+
+**Turma:** BSI Quarta
 
 **Nomes:** 
 Ana Maria Rolão dos Santos Vargas (8813322842)   
